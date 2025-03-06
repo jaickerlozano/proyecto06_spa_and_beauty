@@ -6,13 +6,3 @@
   margin: 0;
   box-sizing: border-box;
 }
-
-// Valores por defecto del body
-body {
-  font-family: var.$font-family;
-  font-size: 16px;
-  background-image: url('../../img/woman.png'), url('../../img/background.jpg'); // Imágenes de fondo
-  background-repeat: no-repeat;
-  background-position: 74% 100%, right 0% top 0%; // Posición de las imágenes de fondo
-  background-size: 47%, 33% 77%;  // Tamaño de las imágenes de fondo
-}
